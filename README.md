@@ -1,7 +1,7 @@
 # MealManager
 
 ### Recipe finding app that focuses on ease of use and new technology.
-- [Demonstration & Breakdown](https://www.youtube.com/watch?v=KUuzaN-sJ7k&feature=youtu.be)
+- [Demonstration & Breakdown](https://youtu.be/YEdvqNtW9Eo)
 
 ### Please Contact me if you are interested in testing this app! (Account Auth will be disabled)
 - zach.martinson.dev@gmail.com
