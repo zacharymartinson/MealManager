@@ -1,6 +1,6 @@
 # MealManager
 
-### Recipe finding app that focuses on ease of use and new technology.
+### Recipe finding app that focuses on finding the right thing to cook.
 - [Demonstration & Breakdown](https://youtu.be/YEdvqNtW9Eo)
 
 ### Please Contact me if you are interested in testing this app! (Account Auth will be disabled)
